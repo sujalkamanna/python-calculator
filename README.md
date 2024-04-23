@@ -55,7 +55,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/sujalkamanna/python-calculator)
+This project is licensed under the [MIT License](https://github.com/sujalkamanna/python-calculator)](https://github.com/sujalkamanna/python-calculator/blob/main/LICENSE.txt)
 
 ----------
 
