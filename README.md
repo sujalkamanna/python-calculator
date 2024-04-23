@@ -24,7 +24,7 @@ This is a simple calculator implemented in Python.
     
     bashCopy code
     
-    `git clone https://github.com/your-username/python-calculator.git` 
+    `git clone https://github.com/sujalkamanna/python-calculator.git` 
     
 2.  Navigate to the project directory:
     
@@ -55,7 +55,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/sujalkamanna/python-calculator)
 
 ----------
 
